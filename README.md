@@ -15,13 +15,13 @@
 > PATH= %PATH%;C:\Users\User\AppData\Local\Android\Sdk\tools\bin
 
 ### To create project
-npx expo-cli init 'name of project'
+> npx expo-cli init 'name of project'
 
 ### Install dependencies
-npx install react-navigation
-npx install react-navigation-stack
+> npx install react-navigation
+> npx install react-navigation-stack
 
-npm install (for node module)
-expo update
-npm install react-native-gesture-handler --save
-npm start
+> npm install (for node module)
+> expo update
+> npm install react-native-gesture-handler --save
+> npm start
